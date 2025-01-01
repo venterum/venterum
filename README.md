@@ -1,23 +1,19 @@
-# Привет, я Venterum!
+## Hi, I'm Venterum!
 
-Я начинающий разработчик, люблю создавать полезные и интересные проекты. Постоянно изучаю новые технологии и стремлюсь к совершенствованию своих навыков работы с.
+Aspiring developer passionate about building useful and engaging projects. Always learning new technologies and striving to improve my skills.
 
-- **Технологии**: Python, HTML, QML (последний пока на низком уровне, в планах изучение новых стеков).
-- **Интересы**: open-source, автоматизация, улучшение пользовательского опыта.
-
----
-
-## 🎯 Цели
-- Освоить QML и другие технологии для работы с Qt
-- Развивать текущие проекты...
-- Создавать интересный софт
+- **Technologies**: Python, HTML, QML (beginner level, with plans to explore new stacks).
+- **Interests**: open-source, automation, enhancing user experience.
 
 ---
 
-## 📫 Контакты
-- **Telegram**: [@Venterum](https://t.me/Venterum)
+## 🎯 Goals
+- Master QML and other Qt technologies  
+- Enhance current projects  
+- Develop innovative software  
+
+---
+
+## 📫 Contacts
+- **Telegram**: [@Venterum](https://t.me/Venterum)  
 - **Email**: [me@venterum.com](mailto:me@venterum.com)
-
----
-
-Если вам понравились мои проекты, не забудьте поставить ★ на репозиториях. Ваши отзывы и предложения всегда приветствуются!
