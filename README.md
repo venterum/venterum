@@ -24,6 +24,7 @@
 
 <p align="center">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Arch">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg" alt="Qt">
@@ -33,6 +34,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VSCode">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg alt="Windows11"">
 </p>
 
 ## My contacts:
