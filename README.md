@@ -34,7 +34,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VSCode">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg alt="Windows11"">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg" alt="Windows11"">
 </p>
 
 ## My contacts:
