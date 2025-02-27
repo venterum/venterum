@@ -1,4 +1,4 @@
-# Welcome to Venterum's GitHub
+# Welcome to Venterum's GitHub 🐧
 
 ## Profile
 
@@ -38,20 +38,6 @@ PLATFORM: Arch Linux KDE & VSCode OSS
 PRIMARY OBJECTIVE: Mastering Python with PyQT and Flask
 SECONDARY OBJECTIVE: JavaScript and QML exploration
 FUTURE PLANS: Venturing into Golang and C++ territories
-```
-
-## Areas of Interest
-
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│  ✧ Software Development                     │
-│  ✧ Gaming                                   │
-│  ✧ History                                  │
-│  ✧ Linguistics                              │
-│  ✧ General Technological Exploration        │
-│                                             │
-└─────────────────────────────────────────────┘
 ```
 
 <div align="center">
