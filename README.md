@@ -1,45 +1,61 @@
-<h1 align="center">Hi, I'm Venterum! 👋</h1>
+# Welcome to Venterum's GitHub
+
+## Profile
 
 ```
-[venterum@github ~]$ fastfetch --whoami
-
-                        &         &                  ┌──────────────────────General───────────────────────┐
-                    &        &&&&&                   │ About: Just a chilly coder from Siberia ❄️         │
-                & &&&&&&&&&&  &&/  &                 │ ├: Name: Venterum (aka Evgenij)                    │
-                 &&&&&/&& & &|/&&&&&&&               │ ├: Loves creating fun stuff 🚀                     │
-                  & \&    & /~\  &&&&&               │ ├: Arch Linux w/ KDE & VSCode OSS 🐧               │
-                     /~~|\  |// &&&/_/               │ └: Languages: Russian 🇷🇺, English 🇬🇧               │
-                      //~  /~/  &  &&&&&             └────────────────────────────────────────────────────┘
-                      /|\ ///\     &&&&&            
-                &&    |_/_//|\       &               ┌──────────────────────Technologies──────────────────┐
-          &     && &&\|    \|                        │ ├:Python (PyQT, Flask), a bit of JavaScript & QML  │
-         &&&&_| &&&\| |/    |/                       │ └:Plans to explore: Golang, C++ (because why not?) │
-           &&&&\_&& \/~|/|_/\                        └────────────────────────────────────────────────────┘
-           &&        \|/~ /\_                        
-                       /~|/~                         ┌──────────────────────Interests──────────────────────┐
-                        \_/~                         │ Dev, gaming, history, languages… nerding out xD     │
-                                                     └─────────────────────────────────────────────────────┘                    
+NAME: Venterum (Evgenij)
+LOCATION: Siberia, Russia
+LANGUAGES: Russian 🇷🇺, English 🇬🇧
+MISSION: Creating fun things
+PLATFORM: Arch Linux KDE & VSCode OSS
 ```
-<h3 align="center">Stuff i use:</h3>
 
-<p align="center">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Arch">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg" alt="Qt">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg" alt="SQLite">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VSCode">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg" alt="Windows11"">
-</p>
+## Communication Channels
 
-## My contacts:
-
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/Venterum)
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/Venterum)  
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg)](mailto:me@venterum.com)
 
-<h3 align="center">If you like what you see, feel free to ⭐ my repos — I appreciate the support! 🙌</h3>
+## Stuff i use
+
+<div align="center">
+    <a href="https://archlinux.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" alt="Arch"></a>
+    <a href="https://www.linux.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux"></a>
+    <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python"></a>
+    <a href="https://flask.palletsprojects.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask"></a>
+    <a href="https://www.qt.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg" alt="Qt"></a>
+    <a href="https://www.sqlite.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg" alt="SQLite"></a>
+    <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VSCode"></a>
+    <a href="https://www.android.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android"></a>
+    <a href="https://www.microsoft.com/en-us/windows"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg" alt="Windows11"></a>
+</div>
+
+## Current Focus
+
+```
+PRIMARY OBJECTIVE: Mastering Python with PyQT and Flask
+SECONDARY OBJECTIVE: JavaScript and QML exploration
+FUTURE PLANS: Venturing into Golang and C++ territories
+```
+
+## Areas of Interest
+
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│  ✧ Software Development                     │
+│  ✧ Gaming                                   │
+│  ✧ History                                  │
+│  ✧ Linguistics                              │
+│  ✧ General Technological Exploration        │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+<div align="center">
+    
+## Support My Work
+
+*If my repositories have helped you, consider leaving a star ⭐*
