@@ -3,17 +3,12 @@
 ## Profile
 
 ```
-NAME: Venterum (Evgenij)
+NAME: Evgenij
 LOCATION: Siberia, Russia
 LANGUAGES: Russian 🇷🇺, English 🇬🇧
-MISSION: Creating fun things
+GOAL: Creating fun things
 PLATFORM: Arch Linux KDE & VSCode OSS
 ```
-
-## Communication Channels
-
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/Venterum)  
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg)](mailto:me@venterum.com)
 
 ## Stuff i use
 
@@ -31,6 +26,11 @@ PLATFORM: Arch Linux KDE & VSCode OSS
     <a href="https://www.android.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android"></a>
     <a href="https://www.microsoft.com/en-us/windows"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg" alt="Windows11"></a>
 </div>
+
+## Reach me
+
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/Venterum)  
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg)](mailto:me@venterum.com)
 
 ## Current Focus
 
