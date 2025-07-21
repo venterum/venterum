@@ -3,11 +3,9 @@
 ## Profile
 
 ```
-NAME: Evgenij
 LOCATION: Siberia, Russia
 LANGUAGES: Russian 🇷🇺, English 🇬🇧
 GOAL: Creating fun things
-PLATFORM: Arch Linux KDE & VSCode OSS
 ```
 
 ## Stuff i use
@@ -31,14 +29,6 @@ PLATFORM: Arch Linux KDE & VSCode OSS
 
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/Venterum)  
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg)](mailto:me@venterum.com)
-
-## Current Focus
-
-```
-PRIMARY OBJECTIVE: Mastering Python with PyQT and Flask
-SECONDARY OBJECTIVE: JavaScript and QML exploration
-FUTURE PLANS: Venturing into Golang and C++ territories
-```
 
 <div align="center">
     
