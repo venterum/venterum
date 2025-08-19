@@ -1,11 +1,11 @@
-# Welcome to Venterum's GitHub 🐧
+# Welcome to my GitHub 🐧
 
 ## Profile
 
 ```
-LOCATION: Siberia, Russia
+LOCATION: Saint Petersburg, Russia
 LANGUAGES: Russian 🇷🇺, English 🇬🇧
-GOAL: Creating fun things
+Likes creating fun things
 ```
 
 ## Stuff i use
@@ -28,7 +28,7 @@ GOAL: Creating fun things
 ## Reach me
 
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/Venterum)  
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg)](mailto:me@venterum.com)
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg)](mailto:evgenij@venterum.com)
 
 <div align="center">
     
