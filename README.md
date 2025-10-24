@@ -3,9 +3,9 @@
 ## Profile
 
 ```
-LOCATION: Saint Petersburg, Russia
+LOCATION: Saint-Petersburg, Russia
 LANGUAGES: Russian 🇷🇺, English 🇬🇧
-Likes creating fun things
+Love creating fun things
 ```
 
 ## Stuff i use
